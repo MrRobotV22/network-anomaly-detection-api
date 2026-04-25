@@ -51,7 +51,7 @@
 - Scales across large enterprise networks
 - Improves operational security & compliance 
 
-## 👨‍💻 About Me
+## 👨🏻‍💻 About Me
 Mohit Suthar — Data Scientist & Audit Analytics Professional with a knack for spotting anomalies and asking “what’s going wrong here?”
 10+ years of experience across enterprise analytics, automation, and large scale data systems.
 🔗 Connect with Me
